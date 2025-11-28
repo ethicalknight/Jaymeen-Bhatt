@@ -578,7 +578,7 @@ Available commands:
 };
 
 window.contact = function() {
-    console.log('📧 Email: jaymeen@ethicalhacker.com');
+    console.log('📧 Email: jaymeen.bhatt.cyber@gmail.com');
     console.log('📱 Phone: +91-9876543210');
 };
 
@@ -596,9 +596,9 @@ window.projects = function() {
 };
 
 window.social = function() {
-    console.log('📷 Instagram: https://instagram.com/ethicalhacker');
-    console.log('💻 GitHub: https://github.com/jaymeenbhatt');
-    console.log('💼 LinkedIn: https://linkedin.com/in/jaymeenbhatt');
+    console.log('📷 Instagram: https://instagram.com/jaymeen__bhatt');
+    console.log('💻 GitHub: https://github.com/ethicalknight');
+    console.log('💼 LinkedIn: https://linkedin.com/in/ethicalknight');
 };
 
 window.hack = function() {
